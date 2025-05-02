@@ -82,4 +82,4 @@ The truth is, this is a tool I built quite a while ago, and I only recently deci
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details. 
