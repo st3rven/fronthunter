@@ -79,7 +79,7 @@ python fronthunter.py -c example.com --front-domain target.com -o results.json -
 
 Contributions are welcome! 
 
-The truth is, this is a tool I built quite a while ago, and I only recently decided to release it publicly. That said, I won’t be addressing minor bugs that get reported, so, please feel free to submit a PR.
+This is a tool I built quite a while ago, and I only recently decided to release it publicly. So, feel free to open an issue if you want to add other features.
 
 ## License
 
